@@ -41,3 +41,4 @@ Hello, I am actively translating. You can send me a message via telegram to supp
 - [Libchecker](https://github.com/LibChecker/LibChecker)
 - [ToDark](https://github.com/darkmoonight/ToDark)
 - [AlwaysOn](https://github.com/Domi04151309/AlwaysOn)
+- [Lyricify](https://github.com/WXRIW/Lyricify-App)
