@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  
+    
 - [KernelSU](https://github.com/tiann/KernelSU)
 - [Adguard Home Manager](https://github.com/JGeek00/adguard-home-manager)
 - [Activity Manager](https://github.com/sdex/ActivityManager)
@@ -83,5 +83,6 @@
 - [Round Sync](https://github.com/newhinton/Round-Sync)
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-android)
 - [RethinkDNS](https://github.com/celzero/rethink-app)
-
+- [Safe Space](https://github.com/aashishksahu/SafeSpace)
+- 
  </div>
