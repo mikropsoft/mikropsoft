@@ -4,13 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
 </h1>
 
-<h3 align="center">A active foss translator from TR</h3>
+<h3 align="center">Keep going</h3>
 
 <br/>
 
 <div align="center">
  
-**Hello, I am actively translating. You can send me a message via telegram to support your projects.**
+ 🌍 Active translator contributing to open-source projects in Turkish.
+ 
+ 💬 Reach out to me on Telegram for project support
 
 </div>
  
