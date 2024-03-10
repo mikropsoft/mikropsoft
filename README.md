@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
 </h1>
 
-<h3 align="center">Keep going</h3>
+<h3 align="center">TR</h3>
 
 <br/>
 
