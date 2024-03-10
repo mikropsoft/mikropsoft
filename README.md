@@ -42,3 +42,4 @@ Hello, I am actively translating. You can send me a message via telegram to supp
 - [ToDark](https://github.com/darkmoonight/ToDark)
 - [AlwaysOn](https://github.com/Domi04151309/AlwaysOn)
 - [Lyricify](https://github.com/WXRIW/Lyricify-App)
+- [Spowlo](https://github.com/BobbyESP/Spowlo)
