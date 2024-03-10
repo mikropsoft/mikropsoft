@@ -81,5 +81,7 @@
 - [Lyricify](https://github.com/WXRIW/Lyricify-App)
 - [Spowlo](https://github.com/BobbyESP/Spowlo)
 - [Round Sync](https://github.com/newhinton/Round-Sync)
+- [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-android)
+- [RethinkDNS](https://github.com/celzero/rethink-app)
 
  </div>
