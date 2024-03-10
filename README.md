@@ -9,7 +9,7 @@ Hello, I am actively translating. You can send me a message via telegram to supp
 ###
 
 <div align="left">
-  <a href="t.me/microzort" target="_blank">
+  <a href="https://t.me/microzort" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=contact&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
@@ -43,12 +43,6 @@ Hello, I am actively translating. You can send me a message via telegram to supp
   <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mikropsoft/mikropsoft/output/snake.svg" alt="Snake animation" />
 
 ###
 
