@@ -70,6 +70,7 @@ ALL | CONTRIBUTED | PROJECTS
 [Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn) | [Lyricify](https://github.com/WXRIW/Lyricify-App) | [Spo‌wlo](https://github.com/BobbyESP/Spowlo)
 [Round Sync](https://github.com/newhinton/Round-Sync) | [Unsto‌ppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-android) | [RethinkDNS](https://github.com/celzero/rethink-app)
 [Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) | [Waterfly III](https://github.com/dreautall/waterfly-iii)
+[SongSync](https://github.com/Lambada10/SongSync) | [Xtra](https://github.com/crackededed/Xtra)
 
 </div>
 
