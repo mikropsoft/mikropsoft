@@ -68,8 +68,8 @@ ALL | CONTRIBUTED | PROJECTS
 [Chord‌reader2](https://github.com/AndInTheClouds/chordreader2) | [Tubular](https://github.com/polymorphicshade/Tubular) | [Apku‌pdater](https://github.com/rumboalla/apkupdater)
 [Gopeed](https://github.com/GopeedLab/gopeed) | [Libc‌hecker](https://github.com/LibChecker/LibChecker) | [ToDark](https://github.com/darkmoonight/ToDark)
 [Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn) | [Lyricify](https://github.com/WXRIW/Lyricify-App) | [Spo‌wlo](https://github.com/BobbyESP/Spowlo)
-[Round Sync](https://github.com/newhinton/Round-Sync) | [Unsto‌ppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-android) | [RethinkDNS](https://github.com/celzero/rethink-app)
-[Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [SimpleMP-Compose](https://github.com/lighttigerXIV/SimpleMP-Compose) | [Waterfly III](https://github.com/dreautall/waterfly-iii)
+[Round Sync](https://github.com/newhinton/Round-Sync) | [Thunder](https://github.com/thunder-app/thunder) | [RethinkDNS](https://github.com/celzero/rethink-app)
+[Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [Openai-translator](https://github.com/openai-translator/openai-translator) | [Waterfly III](https://github.com/dreautall/waterfly-iii)
 [SongSync](https://github.com/Lambada10/SongSync) | [Xtra](https://github.com/crackededed/Xtra) | [Broccoli](https://github.com/flauschtrud/broccoli)
 
 </div>
