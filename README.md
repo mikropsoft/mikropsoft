@@ -67,7 +67,7 @@ ALL | CONTRIBUTED | PROJECTS
 [Gopeed](https://github.com/GopeedLab/gopeed) | [Libc‌hecker](https://github.com/LibChecker/LibChecker) | [ToDark](https://github.com/darkmoonight/ToDark)
 [Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn) | [Lyricify](https://github.com/WXRIW/Lyricify-App) | [Spo‌wlo](https://github.com/BobbyESP/Spowlo)
 [Round Sync](https://github.com/newhinton/Round-Sync) | [Thunder](https://github.com/thunder-app/thunder) | [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
-[Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [Openai-translator](https://github.com/openai-translator/openai-translator) | [Waterfly III](https://github.com/dreautall/waterfly-iii)
+[Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [Openai-translator](https://github.com/openai-translator/openai-translator) | [Namida](https://github.com/namidaco/namida)
 [SongSync](https://github.com/Lambada10/SongSync) | [Xtra](https://github.com/crackededed/Xtra) | [Broccoli](https://github.com/flauschtrud/broccoli)
 
 </div>
