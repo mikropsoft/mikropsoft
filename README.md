@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mikropsoft.mikropsoft" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1200&height=70&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
 </h1>
 
 <br/>
@@ -69,6 +69,7 @@ ALL | CONTRIBUTED | PROJECTS
 [Round Sync](https://github.com/newhinton/Round-Sync) | [Thunder](https://github.com/thunder-app/thunder) | [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
 [Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [Openai-translator](https://github.com/openai-translator/openai-translator) | [Namida](https://github.com/namidaco/namida)
 [SongSync](https://github.com/Lambada10/SongSync) | [Xtra](https://github.com/crackededed/Xtra) | [Broccoli](https://github.com/flauschtrud/broccoli)
+[InstallWithOptions](https://github.com/zacharee/InstallWithOptions) | [FDE.AI](https://github.com/feravolt/FDE.AI-docs) | [Preload](https://github.com/feravolt/Preload-docs)
 
 </div>
 
