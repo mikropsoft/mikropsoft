@@ -70,6 +70,7 @@ ALL | CONTRIBUTED | PROJECTS
 [Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [Openai-translator](https://github.com/openai-translator/openai-translator) | [Namida](https://github.com/namidaco/namida)
 [SongSync](https://github.com/Lambada10/SongSync) | [Xtra](https://github.com/crackededed/Xtra) | [Broccoli](https://github.com/flauschtrud/broccoli)
 [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) | [FDE.AI](https://github.com/feravolt/FDE.AI-docs) | [Preload](https://github.com/feravolt/Preload-docs)
+[AdClose](https://github.com/zjyzip/AdClose) | [MdgWa](https://github.com/ItsMadruga/MdgWa) | [Musicpod](https://github.com/ubuntu-flutter-community/musicpod)
 
 </div>
 
