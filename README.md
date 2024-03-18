@@ -61,13 +61,13 @@ ALL | CONTRIBUTED | PROJECTS
 [AyuGram](https://github.com/AyuGram) | [ColorB‌lendr](https://github.com/Mahmud0808/ColorBlendr) | [ExteraGram](https://github.com/exteraSquad/exteraGram)
 [Glo‌om](https://github.com/MateriiApps/Gloom) | [Iconify](https://github.com/Mahmud0808/Iconify) | [In‌stander](https://thedise.me/instander)
 [Keyguard](https://github.com/AChep/keyguard-app) | [My‌Insta](https://myinsta.app) | [Nameless](https://nameless.wiki)
-[Pixe‌lXpert](https://github.com/siavash79/PixelXpert) | [Project Elixir](https://projectelixiros.com/home) | [BatteryTile](https://github.com/CominAtYou/BatteryTile)
+[Pixe‌lXpert](https://github.com/siavash79/PixelXpert) | [Qralarm](https://github.com/sweakpl/qralarm-android) | [BatteryTile](https://github.com/CominAtYou/BatteryTile)
 [IYPS](https://github.com/StellarSand/IYPS) | [Jeti‌spot](https://github.com/iTaysonLab/jetispot) | [Spotube](https://github.com/KRTirtho/spotube)
 [Chord‌reader2](https://github.com/AndInTheClouds/chordreader2) | [Tubular](https://github.com/polymorphicshade/Tubular) | [Apku‌pdater](https://github.com/rumboalla/apkupdater)
 [Gopeed](https://github.com/GopeedLab/gopeed) | [Libc‌hecker](https://github.com/LibChecker/LibChecker) | [ToDark](https://github.com/darkmoonight/ToDark)
 [Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn) | [Lyricify](https://github.com/WXRIW/Lyricify-App) | [Spo‌wlo](https://github.com/BobbyESP/Spowlo)
 [Round Sync](https://github.com/newhinton/Round-Sync) | [Thunder](https://github.com/thunder-app/thunder) | [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader)
-[Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [Openai-translator](https://github.com/openai-translator/openai-translator) | [Namida](https://github.com/namidaco/namida)
+[Saf‌e Space](https://github.com/aashishksahu/SafeSpace) | [Openai-translator](https://github.com/openai-translator/openai-translator) | [Unlock-master](https://github.com/sweakpl/unlock-master)
 [SongSync](https://github.com/Lambada10/SongSync) | [Xtra](https://github.com/crackededed/Xtra) | [Broccoli](https://github.com/flauschtrud/broccoli)
 [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) | [FDE.AI](https://github.com/feravolt/FDE.AI-docs) | [Preload](https://github.com/feravolt/Preload-docs)
 [AdClose](https://github.com/zjyzip/AdClose) | [MdgWa](https://github.com/ItsMadruga/MdgWa) | [Musicpod](https://github.com/ubuntu-flutter-community/musicpod)
@@ -76,9 +76,7 @@ ALL | CONTRIBUTED | PROJECTS
 
 </div>
 
-
 </div>
-
 
 </div>
 
