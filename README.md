@@ -5,14 +5,12 @@
     <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 </h1>
 
-<h3 align="center">Ah Shit, Here We Go Again</h3>
+<h3 align="center">Who am I</h3>
 
 <div align="center">
- 
  🌍 Active translator contributing to open-source projects in Turkish.
  
  💬 Reach out to me on Telegram for project support
-
 </div>
  
 <div align="center"> 
@@ -42,27 +40,27 @@
 <hr/>
 
 <div align="center">
-     <h2>🏆Translated Projects🏆</h2>
+    <h2>🏆Translated Projects🏆</h2>
 </div>
 
 <div align="center">
 
-[Kern‌elSU](https://github.com/tiann/KernelSU) - [Adguard Home Manager](https://github.com/JGeek00/adguard-home-manager) - [Activ‌ity Manager](https://github.com/sdex/ActivityManager) -
-[AyuGram](https://github.com/AyuGram) - [ColorB‌lendr](https://github.com/Mahmud0808/ColorBlendr) - [ExteraGram](https://github.com/exteraSquad/exteraGram) -
-[Glo‌om](https://github.com/MateriiApps/Gloom) - [Iconify](https://github.com/Mahmud0808/Iconify) - [In‌stander](https://thedise.me/instander) -
-[Keyguard](https://github.com/AChep/keyguard-app) - [My‌Insta](https://myinsta.app) - [Nameless](https://nameless.wiki) -
-[Pixe‌lXpert](https://github.com/siavash79/PixelXpert) - [Qralarm](https://github.com/sweakpl/qralarm-android) - [BatteryTile](https://github.com/CominAtYou/BatteryTile) -
-[IYPS](https://github.com/StellarSand/IYPS) - [Jeti‌spot](https://github.com/iTaysonLab/jetispot) - [Spotube](https://github.com/KRTirtho/spotube) -
-[Chord‌reader2](https://github.com/AndInTheClouds/chordreader2) - [Tubular](https://github.com/polymorphicshade/Tubular) - [Apku‌pdater](https://github.com/rumboalla/apkupdater) -
-[Gopeed](https://github.com/GopeedLab/gopeed) - [Libc‌hecker](https://github.com/LibChecker/LibChecker) - [ToDark](https://github.com/darkmoonight/ToDark) -
-[Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn) - [Lyricify](https://github.com/WXRIW/Lyricify-App) - [Spo‌wlo](https://github.com/BobbyESP/Spowlo) -
-[Round Sync](https://github.com/newhinton/Round-Sync) - [Thunder](https://github.com/thunder-app/thunder) - [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) -
-[Saf‌e Space](https://github.com/aashishksahu/SafeSpace) - [Openai-translator](https://github.com/openai-translator/openai-translator) - [SongSync](https://github.com/Lambada10/SongSync) -
-[Unlock-Master](https://github.com/sweakpl/unlock-master) - [Xtra](https://github.com/crackededed/Xtra) - [Broccoli](https://github.com/flauschtrud/broccoli) -
-[InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - [FDE.AI](https://github.com/feravolt/FDE.AI-docs) - [Preload](https://github.com/feravolt/Preload-docs) -
-[AdClose](https://github.com/zjyzip/AdClose) - [MdgWa](https://github.com/ItsMadruga/MdgWa) - [Musicpod](https://github.com/ubuntu-flutter-community/musicpod) -
-[Settings](https://github.com/ubuntu-flutter-community/settings) - [xManager](https://github.com/Team-xManager/xManager) - [ReLabs](https://github.com/theimpulson/ReLabs) -
-[Twine](https://github.com/msasikanth/twine) - [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod) - [Spmp](https://github.com/toasterofbread/spmp) - [Moosync](https://github.com/Moosync/Moosync) 
+( [Kern‌elSU](https://github.com/tiann/KernelSU) ) ( [Adguard Home Manager](https://github.com/JGeek00/adguard-home-manager) ) ( [Activ‌ity Manager](https://github.com/sdex/ActivityManager) ) 
+( [AyuGram](https://github.com/AyuGram) ) ( [ColorB‌lendr](https://github.com/Mahmud0808/ColorBlendr) ) ( [ExteraGram](https://github.com/exteraSquad/exteraGram) )
+( [Glo‌om](https://github.com/MateriiApps/Gloom) ) ( [Iconify](https://github.com/Mahmud0808/Iconify) ) ( [In‌stander](https://thedise.me/instander) )
+( [Keyguard](https://github.com/AChep/keyguard-app) ) ( [My‌Insta](https://myinsta.app) ) ( [Nameless Rom](https://nameless.wiki) )
+( [Pixe‌lXpert](https://github.com/siavash79/PixelXpert) ) ( [Qralarm](https://github.com/sweakpl/qralarm-android) ) ( [BatteryTile](https://github.com/CominAtYou/BatteryTile) )
+( [IYPS](https://github.com/StellarSand/IYPS) ) ( [Jeti‌spot](https://github.com/iTaysonLab/jetispot) ) ( [Spotube](https://github.com/KRTirtho/spotube) )
+( [Chord‌reader2](https://github.com/AndInTheClouds/chordreader2) ) ( [Tubular](https://github.com/polymorphicshade/Tubular) ) ( [Apku‌pdater](https://github.com/rumboalla/apkupdater) )
+( [Gopeed](https://github.com/GopeedLab/gopeed) ) ( [Libc‌hecker](https://github.com/LibChecker/LibChecker) ) ( [ToDark](https://github.com/darkmoonight/ToDark) )
+( [Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn) ) ( [Lyricify](https://github.com/WXRIW/Lyricify-App) ) ( [Spo‌wlo](https://github.com/BobbyESP/Spowlo) )
+( [Round Sync](https://github.com/newhinton/Round-Sync) ) ( [Thunder](https://github.com/thunder-app/thunder) ) ( [DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) )
+( [Saf‌e Space](https://github.com/aashishksahu/SafeSpace) ) ( [Openai-translator](https://github.com/openai-translator/openai-translator) ) ( [SongSync](https://github.com/Lambada10/SongSync) )
+( [Unlock-Master](https://github.com/sweakpl/unlock-master) ) ( [Xtra](https://github.com/crackededed/Xtra) ) ( [Broccoli](https://github.com/flauschtrud/broccoli) )
+( [InstallWithOptions](https://github.com/zacharee/InstallWithOptions) ) ( [FDE.AI](https://github.com/feravolt/FDE.AI-docs) ) ( [Preload](https://github.com/feravolt/Preload-docs) )
+( [AdClose](https://github.com/zjyzip/AdClose) ) ( [MdgWa](https://github.com/ItsMadruga/MdgWa) ) ( [Musicpod](https://github.com/ubuntu-flutter-community/musicpod) )
+( [Settings](https://github.com/ubuntu-flutter-community/settings) ) ( [xManager](https://github.com/Team-xManager/xManager) ) ( [ReLabs](https://github.com/theimpulson/ReLabs) )
+( [Twine](https://github.com/msasikanth/twine) ) ( [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod) ) ( [Spmp](https://github.com/toasterofbread/spmp) ) ( [Moosync](https://github.com/Moosync/Moosync) )
 
 </div>
 
