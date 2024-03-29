@@ -62,6 +62,7 @@
 ( [Settings](https://github.com/ubuntu-flutter-community/settings) ) ( [xManager](https://github.com/Team-xManager/xManager) ) ( [ReLabs](https://github.com/theimpulson/ReLabs) )
 ( [Twine](https://github.com/msasikanth/twine) ) ( [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod) ) ( [Spmp](https://github.com/toasterofbread/spmp) ) ( [Moosync](https://github.com/Moosync/Moosync) )
 ( [Droid-hole](https://github.com/JGeek00/droid-hole) ) ( [Linkdy](https://github.com/JGeek00/linkdy) ) ( [CoinWatch](https://github.com/shorthouse/CoinWatch) ) 
+( [Nora](https://github.com/Sandakan/Nora) ) 
 
 </div>
 
