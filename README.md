@@ -50,7 +50,7 @@
 ( [Glo‌om](https://github.com/MateriiApps/Gloom) ) ( [Iconify](https://github.com/Mahmud0808/Iconify) ) ( [In‌stander](https://thedise.me/instander) )
 ( [Keyguard](https://github.com/AChep/keyguard-app) ) ( [My‌Insta](https://myinsta.app) ) ( [Nameless Rom](https://nameless.wiki) )
 ( [Pixe‌lXpert](https://github.com/siavash79/PixelXpert) ) ( [Qralarm](https://github.com/sweakpl/qralarm-android) ) ( [BatteryTile](https://github.com/CominAtYou/BatteryTile) )
-( [IYPS](https://github.com/StellarSand/IYPS) ) ( [Jeti‌spot](https://github.com/iTaysonLab/jetispot) ) ( [Spotube](https://github.com/KRTirtho/spotube) )
+( [IYPS](https://github.com/StellarSand/IYPS) ) ( [MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) ) ( [Spotube](https://github.com/KRTirtho/spotube) )
 ( [Chord‌reader2](https://github.com/AndInTheClouds/chordreader2) ) ( [Tubular](https://github.com/polymorphicshade/Tubular) ) ( [Apku‌pdater](https://github.com/rumboalla/apkupdater) )
 ( [Gopeed](https://github.com/GopeedLab/gopeed) ) ( [Libc‌hecker](https://github.com/LibChecker/LibChecker) ) ( [ToDark](https://github.com/darkmoonight/ToDark) )
 ( [Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn) ) ( [Lyricify](https://github.com/WXRIW/Lyricify-App) ) ( [Spo‌wlo](https://github.com/BobbyESP/Spowlo) )
@@ -62,7 +62,7 @@
 ( [Settings](https://github.com/ubuntu-flutter-community/settings) ) ( [xManager](https://github.com/Team-xManager/xManager) ) ( [ReLabs](https://github.com/theimpulson/ReLabs) )
 ( [Twine](https://github.com/msasikanth/twine) ) ( [LSPosed Mod](https://github.com/mywalkb/LSPosed_mod) ) ( [Spmp](https://github.com/toasterofbread/spmp) ) ( [Moosync](https://github.com/Moosync/Moosync) )
 ( [Droid-hole](https://github.com/JGeek00/droid-hole) ) ( [Linkdy](https://github.com/JGeek00/linkdy) ) ( [CoinWatch](https://github.com/shorthouse/CoinWatch) ) 
-( [Nora](https://github.com/Sandakan/Nora) ) ( [AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities) ) 
+( [Nora](https://github.com/Sandakan/Nora) ) ( [AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities) ) ( [SoulSearching](https://github.com/enteraname74/SoulSearching) ) 
 
 </div>
 
