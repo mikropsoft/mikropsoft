@@ -45,7 +45,7 @@
 
 <div align="center">
 
-( [Kern‌elSU](https://github.com/tiann/KernelSU) ) ( [Adguard Home Manager](https://github.com/JGeek00/adguard-home-manager) ) ( [Activ‌ity Manager](https://github.com/sdex/ActivityManager) ) 
+( [Kern‌elSU](https://github.com/tiann/KernelSU) ) ( [Adguard Home Manager](https://github.com/JGeek00/adguard-home-manager) ) ( [Magisk](https://github.com/topjohnwu/Magisk) ) 
 ( [AyuGram](https://github.com/AyuGram) ) ( [ColorB‌lendr](https://github.com/Mahmud0808/ColorBlendr) ) ( [ExteraGram](https://github.com/exteraSquad/exteraGram) )
 ( [Glo‌om](https://github.com/MateriiApps/Gloom) ) ( [Iconify](https://github.com/Mahmud0808/Iconify) ) ( [In‌stander](https://thedise.me/instander) )
 ( [Keyguard](https://github.com/AChep/keyguard-app) ) ( [My‌Insta](https://myinsta.app) ) ( [Nameless Rom](https://nameless.wiki) )
@@ -64,6 +64,7 @@
 ( [Droid-hole](https://github.com/JGeek00/droid-hole) ) ( [Linkdy](https://github.com/JGeek00/linkdy) ) ( [CoinWatch](https://github.com/shorthouse/CoinWatch) ) 
 ( [Nora](https://github.com/Sandakan/Nora) ) ( [AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities) ) ( [SoulSearching](https://github.com/enteraname74/SoulSearching) ) 
 ( [SysctlGUI](https://github.com/Lennoard/SysctlGUI) ) ( [Sav pdf viewer](https://github.com/Sav22999/sav-pdf-viewer-pro) ) ( [Filester](https://github.com/roozbehzarei/filester) ) 
+( [Activ‌ity Manager](https://github.com/sdex/ActivityManager) ) 
 
 </div>
 
