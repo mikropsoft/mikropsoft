@@ -9,6 +9,7 @@
 
 <div align="center">
  🌍 Active translator contributing to open-source projects in Turkish.
+    
  💬 Reach out to me on Telegram for project support
 </div>
  
