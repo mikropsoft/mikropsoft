@@ -39,7 +39,7 @@
 
 <hr/>
 
-<div align="center">
+<div align="center">   
     <h2>🏆Translated Projects🏆</h2>
 </div>
 
@@ -64,7 +64,7 @@
 ( [Droid-hole](https://github.com/JGeek00/droid-hole) ) ( [Linkdy](https://github.com/JGeek00/linkdy) ) ( [CoinWatch](https://github.com/shorthouse/CoinWatch) ) 
 ( [Nora](https://github.com/Sandakan/Nora) ) ( [AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities) ) ( [SoulSearching](https://github.com/enteraname74/SoulSearching) ) 
 ( [SysctlGUI](https://github.com/Lennoard/SysctlGUI) ) ( [Sav pdf viewer](https://github.com/Sav22999/sav-pdf-viewer-pro) ) ( [Filester](https://github.com/roozbehzarei/filester) ) 
-( [Activ‌ity Manager](https://github.com/sdex/ActivityManager) ) ( [NotiSender](https://github.com/choiman1559/NotiSender) ) 
+( [Activ‌ity Manager](https://github.com/sdex/ActivityManager) ) ( [NotiSender](https://github.com/choiman1559/NotiSender) ) ( [Untracker](https://github.com/zhanghai/Untracker) ) 
 
 </div>
 
