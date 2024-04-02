@@ -1,9 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mikropsoft.mikropsoft" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
     <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 </h1>
+
 
 <h3 align="center">Who am I</h3>
 
@@ -32,9 +31,18 @@
 <h2 align="center">⚡Stats⚡</h2>
 
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mikropsoft&theme=react&border_radius=10&card_width=400" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mikropsoft&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&card_width=400" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikropsoft&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikropsoft" />
+</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikropsoft&layout=compact&langs_count=2" />
+</a>
+
+<hr/>
+
+<div align=center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=NmapLite" />
+</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=StevenBlock" />
+</a>
 </div>
 
 <hr/>
@@ -67,6 +75,16 @@
 ( [Activ‌ity Manager](https://github.com/sdex/ActivityManager) ) ( [NotiSender](https://github.com/choiman1559/NotiSender) ) ( [Untracker](https://github.com/zhanghai/Untracker) ) 
 ( [Athena](https://github.com/SebaUbuntu/Athena) ) 
 
+</div>
+
+<div align="center">   
+    <h2>👁️‍🗨️ Profile Views Counter</h2>
+</div>
+
+<div align="center">
+    <a href="https://u8views.com/github/mikropsoft">
+        <img src="https://u8views.com/api/v1/github/profiles/75412448/views/day-week-month-total-count.svg">
+    </a>
 </div>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
