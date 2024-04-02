@@ -65,6 +65,7 @@
 ( [Nora](https://github.com/Sandakan/Nora) ) ( [AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities) ) ( [SoulSearching](https://github.com/enteraname74/SoulSearching) ) 
 ( [SysctlGUI](https://github.com/Lennoard/SysctlGUI) ) ( [Sav pdf viewer](https://github.com/Sav22999/sav-pdf-viewer-pro) ) ( [Filester](https://github.com/roozbehzarei/filester) ) 
 ( [Activ‌ity Manager](https://github.com/sdex/ActivityManager) ) ( [NotiSender](https://github.com/choiman1559/NotiSender) ) ( [Untracker](https://github.com/zhanghai/Untracker) ) 
+( [Athena](https://github.com/SebaUbuntu/Athena) ) 
 
 </div>
 
