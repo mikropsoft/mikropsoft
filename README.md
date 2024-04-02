@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">   
-    <h2>👁️‍🗨️ Profile Views Counter</h2>
+    <h2>👁️Profile Views Counter👁️</h2>
 </div>
 
 <div align="center">
