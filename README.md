@@ -58,6 +58,8 @@
 
 </div>
 
+<hr/>
+
 <div align="center">   
     <h2>👁️Profile Views Counter👁️</h2>
 </div>
