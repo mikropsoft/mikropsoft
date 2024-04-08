@@ -45,7 +45,7 @@
 
 <hr/>
 
-<h2 align="center">🏆Translated & Optimised Projects🏆</h2>
+<h2 align="center">🏆Translated Projects🏆</h2>
 
 <div align="center">
 
