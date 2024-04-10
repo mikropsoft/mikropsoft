@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<hr/>
+---
  
 <h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
 
@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=python,github,vscode,linux,debian,ubuntu" />
 </div>
 
-<hr/>
+---
 
 <h2 align="center">⚡Stats⚡</h2>
 
@@ -34,7 +34,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikropsoft&langs_count=8" />
 </div>
 
-<hr/>
+---
 
 <h2 align="center">👾My Main Projects👾</h2>
 
@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=StevenBlock" />
 </div>
 
-<hr/>
+---
 
 <h2 align="center">🏆Translated Projects🏆</h2>
 
@@ -53,7 +53,7 @@
 
 </div>
 
-<hr/>
+---
 
 <h2 align="center">👁️Profile Views Counter👁️</h2>
 
