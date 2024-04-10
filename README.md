@@ -5,7 +5,7 @@
 <h3 align="center">👤 Who Am I?</h3>
 
 <div align="center">
- 🌍 Active translator contributing to open-source projects in Turkish.<br><br>
+ 🌍 Active translator contributing to open-source projects in Turkish <br><br> 
     
  💬 Reach out to me on Telegram for project support
 </div>
