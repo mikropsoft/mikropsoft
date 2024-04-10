@@ -1,16 +1,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
-    <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 </h1>
 
-<h3 align="center">Who am I</h3>
+<h3 align="center">👤 Who Am I?</h3>
 
 <div align="center">
- 🌍 Active translator contributing to open-source projects in Turkish.
+ 🌍 Active translator contributing to open-source projects in Turkish.<br><br>
     
  💬 Reach out to me on Telegram for project support
 </div>
- 
+
 <div align="center"> 
   <a href="https://t.me/microzort">
     <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
@@ -31,7 +30,7 @@
 
 <div align=center>  
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikropsoft" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikropsoft&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikropsoft&langs_count=2" />
 </div>
 
 ---
