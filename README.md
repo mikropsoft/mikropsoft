@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
 </h1>
 
-<h3 align="center">Who Am I?</h3>
-
 <div align="center">
  🌍 Active translator contributing to open-source projects in Turkish <br><br> 
     
