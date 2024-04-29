@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
- 🌍 Active translator contributing to open-source projects in Turkish <br><br> 
+ 🌍 Active translator contributing to open-source projects <br><br> 
     
  💬 Reach out to me on Telegram 
 </div>
@@ -19,24 +19,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    
-**Oh, d'oh! Unfortunately, there are no Android or other distros in the icon repo.**
-    
-</div>
-
-<div align="center">
     <img src="https://skillicons.dev/icons?i=python,github,vscode,linux,debian,raspberrypi" />
 </div>
 
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
-<div align="center">
-    
-**It looks like there isn't much.**
-    
-</div>
 
 <div align=center>  
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikropsoft" />
@@ -49,7 +37,7 @@
 
 <div align="center">
     
-**I have only maintained these two repositories. Other forks have been created for translation purposes.**
+**(I have only maintained these two repositories. Other forks have been created for translation purposes.)**
     
 </div>
 
@@ -64,7 +52,7 @@
 
 <div align="center">
     
-**Crowdin and Pull Request were used to translate.**
+**(Crowdin and Pull Request were used to translate.)**
     
 </div>
 
