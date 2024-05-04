@@ -3,9 +3,9 @@
 </h1>
 
 <div align="center">
- 🌍 Active translator contributing to open-source projects <br><br> 
-    
- 💬 Reach out to me on Telegram 
+🌍 I'm an active translator who loves contributing to open-source projects! <br><br>
+
+💬 If you'd like to chat, just reach out to me on Telegram. I'd love to hear from you!
 </div>
 
 <div align="center"> 
