@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+WINZORT!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1500&height=75&duration=2500&lines=Hi+There!+👋;+I'm+WINZORT!;+Browse+my+profile!" />
 </h1>
 
 <div align="center">
@@ -73,4 +73,4 @@
     </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
