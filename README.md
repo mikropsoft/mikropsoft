@@ -52,7 +52,7 @@
 
 <div align="center">
     
-**(Crowdin and Pull Request were used to translate.)**
+**(Crowdin and Pull Request were used for translation. Some projects were not translated from start to finish. Additions and corrections were made.)**
     
 </div>
 
