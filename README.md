@@ -37,7 +37,7 @@
 
 <div align="center">
     
-**I have only maintained these two repositories.**
+**I have only maintained these three repositories.**
 
 **Other forks have been created for translation purposes.**
     
