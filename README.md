@@ -48,6 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=NmapLite"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=SqlmapLite"/>  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PMLite"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PGLite"/> 
 </div>
 
 ---
