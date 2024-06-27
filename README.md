@@ -47,8 +47,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=StevenBlock"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=NmapLite"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=SqlmapLite"/>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PMLite"/> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PGLite"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PyPasswordManager"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PyPasswordGenerator"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PyTextAnalyzer"/> 
 </div>
 
 ---
