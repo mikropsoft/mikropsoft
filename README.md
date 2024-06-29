@@ -94,7 +94,6 @@
     <strong><a href="https://github.com/openai-translator/openai-translator">Openai-translator</a></strong> - 
     <strong><a href="https://github.com/Lambada10/SongSync">SongSync</a></strong> - 
     <strong><a href="https://github.com/sweakpl/unlock-master">Unlock-Master</a></strong> - 
-    <strong><a href="https://github.com/crackededed/Xtra">Xtra</a></strong> - 
     <strong><a href="https://github.com/flauschtrud/broccoli">Broccoli</a></strong> - 
     <strong><a href="https://github.com/zacharee/InstallWithOptions">InstallWithOptions</a></strong> - 
     <strong><a href="https://github.com/zjyzip/AdClose">AdClose</a></strong> - 
