@@ -28,7 +28,7 @@
 
 <div align=center>  
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikropsoft" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikropsoft&langs_count=2" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikropsoft&langs_count=3" />
 </div>
 
 ---
@@ -50,6 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PyPasswordManager"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PyPasswordGenerator"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=PyTextAnalyzer"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=ConvertEase"/> 
 </div>
 
 ---
