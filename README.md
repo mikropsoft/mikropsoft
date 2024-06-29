@@ -27,7 +27,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>  
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikropsoft&hide=issues\&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikropsoft&rank_icon=github" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikropsoft&layout=compact" />
 </div>
 
