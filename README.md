@@ -65,9 +65,91 @@
 </div>
 
 <div align="center">
-
-**[Kern‌elSU](https://github.com/tiann/KernelSU)** - **[Adguard Home Manager](https://github.com/JGeek00/adguard-home-manager)** - **[Magisk](https://github.com/topjohnwu/Magisk)** - **[AyuGram](https://github.com/AyuGram)** - **[ColorB‌lendr](https://github.com/Mahmud0808/ColorBlendr)** - **[Oxygen-Customizer](https://github.com/DHD2280/Oxygen-Customizer)** - **[Glo‌om](https://github.com/MateriiApps/Gloom)** - **[Iconify](https://github.com/Mahmud0808/Iconify)** - **[In‌stander](https://thedise.me/instander)** - **[Keyguard](https://github.com/AChep/keyguard-app)** - **[My‌Insta](https://myinsta.app)** - **[Pixe‌lXpert](https://github.com/siavash79/PixelXpert)** - **[Qralarm](https://github.com/sweakpl/qralarm-android)** - **[BatteryTile](https://github.com/CominAtYou/BatteryTile)** - **[IYPS](https://github.com/StellarSand/IYPS)** - **[Audile](https://github.com/aleksey-saenko/MusicRecognizer)** - **[Spotube](https://github.com/KRTirtho/spotube)** - **[Apku‌pdater](https://github.com/rumboalla/apkupdater)** - **[Gopeed](https://github.com/GopeedLab/gopeed)** - **[Libc‌hecker](https://github.com/LibChecker/LibChecker)** - **[ToDark](https://github.com/darkmoonight/ToDark)** - **[Alw‌aysOn](https://github.com/Domi04151309/AlwaysOn)** - **[Lyricify](https://github.com/WXRIW/Lyricify-App)** - **[Round Sync](https://github.com/newhinton/Round-Sync)** - **[Thunder](https://github.com/thunder-app/thunder)** - **[DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader)** - **[Saf‌e Space](https://github.com/aashishksahu/SafeSpace)** - **[Openai-translator](https://github.com/openai-translator/openai-translator)** - **[SongSync](https://github.com/Lambada10/SongSync)** - **[Unlock-Master](https://github.com/sweakpl/unlock-master)** - **[Xtra](https://github.com/crackededed/Xtra)** - **[Broccoli](https://github.com/flauschtrud/broccoli)** - **[InstallWithOptions](https://github.com/zacharee/InstallWithOptions)** - **[AdClose](https://github.com/zjyzip/AdClose)** - **[Musicpod](https://github.com/ubuntu-flutter-community/musicpod)** - **[Ubuntu Settings](https://github.com/ubuntu-flutter-community/settings)** - **[xManager](https://github.com/Team-xManager/xManager)** - **[ReLabs](https://github.com/theimpulson/ReLabs)** - **[Twine](https://github.com/msasikanth/twine)** - **[LSPosed Mod](https://github.com/mywalkb/LSPosed_mod)** - **[Spmp](https://github.com/toasterofbread/spmp)** - **[Moosync](https://github.com/Moosync/Moosync)** - **[Linkdy](https://github.com/JGeek00/linkdy)** - **[Nora](https://github.com/Sandakan/Nora)** - **[AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities)** - **[Snappr](https://github.com/Iamlooker/Snappr)** - **[SysctlGUI](https://github.com/Lennoard/SysctlGUI)** - **[Sav-pdf-viewer](https://github.com/Sav22999/sav-pdf-viewer-pro)** - **[Filester](https://github.com/roozbehzarei/filester)** - **[Activ‌ity Manager](https://github.com/sdex/ActivityManager)** - **[Athena](https://github.com/SebaUbuntu/Athena)** - **[Alibi](https://github.com/Myzel394/Alibi)** - **[Jerboa](https://github.com/LemmyNet/jerboa)** - **[FluxNews](https://github.com/KevinCFechtel/FluxNews)** - **[aShellYou](https://github.com/DP-Hridayan/aShellYou)** - **[Redomi](https://github.com/acszo/Redomi)** - **[HomeMedkit-App](https://github.com/pewaru-333/HomeMedkit-App)** - **[FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates)** - **[Snaptick](https://github.com/vishal2376/snaptick)** - **[WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)** - **[LibrePass-Android](https://github.com/LibrePass/LibrePass-Android)** - **[Wgtunnel](https://github.com/zaneschepke/wgtunnel)** - **[Zen](https://github.com/pakka-papad/Zen)** - **[PlainApp](https://github.com/ismartcoding/plain-app)** - **[SmartCookieWeb-Preview](https://github.com/CookieJarApps/SmartCookieWeb-Preview)** - **[BlazedCloud](https://github.com/TheRedSpy15/blazedcloud)** - **[Open-video-editor](https://github.com/devhyper/open-video-editor)** - **[BetterCounter](https://github.com/albertvaka/bettercounter)** - **[Peristyle](https://github.com/Hamza417/Peristyle)** - **[OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker)** - **[FDE-AI](https://github.com/feravolt/FDE.AI-docs)** - **[LayoutEditor](https://github.com/itsvks19/LayoutEditor)** - **[PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods)** - **[SummaryYou](https://github.com/talosross/SummaryYou)** - **[MedTimer](https://github.com/Futsch1/medTimer)** - **[ViTune](https://github.com/25huizengek1/ViTune)** - **[NewPass](https://github.com/6eero/NewPass)** - **[Piley](https://github.com/justdeko/piley)** - **[Paisa](https://github.com/h4h13/Paisa)** - **[Bitwarden-Auth](https://github.com/bitwarden/authenticator-android)** - **[OpenNote-Compose](https://github.com/YangDai2003/OpenNote-Compose)** - **[Disky](https://github.com/newhinton/disky)** - **[Timed-Silence](https://github.com/newhinton/Timed-Silence)** - **[QuickNovel](https://github.com/LagradOst/QuickNovel)** - **[Voyage](https://github.com/dluvian/voyage)**
-
+    <strong><a href="https://github.com/tiann/KernelSU">Kern‌elSU</a></strong> - 
+    <strong><a href="https://github.com/JGeek00/adguard-home-manager">Adguard Home Manager</a></strong> - 
+    <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> - 
+    <strong><a href="https://github.com/AyuGram">AyuGram</a></strong> - 
+    <strong><a href="https://github.com/Mahmud0808/ColorBlendr">ColorB‌lendr</a></strong> - 
+    <strong><a href="https://github.com/DHD2280/Oxygen-Customizer">Oxygen-Customizer</a></strong> - 
+    <strong><a href="https://github.com/MateriiApps/Gloom">Glo‌om</a></strong> - 
+    <strong><a href="https://github.com/Mahmud0808/Iconify">Iconify</a></strong> - 
+    <strong><a href="https://thedise.me/instander">In‌stander</a></strong> - 
+    <strong><a href="https://github.com/AChep/keyguard-app">Keyguard</a></strong> - 
+    <strong><a href="https://myinsta.app">My‌Insta</a></strong> - 
+    <strong><a href="https://github.com/siavash79/PixelXpert">Pixe‌lXpert</a></strong> - 
+    <strong><a href="https://github.com/sweakpl/qralarm-android">Qralarm</a></strong> - 
+    <strong><a href="https://github.com/CominAtYou/BatteryTile">BatteryTile</a></strong> - 
+    <strong><a href="https://github.com/StellarSand/IYPS">IYPS</a></strong> - 
+    <strong><a href="https://github.com/aleksey-saenko/MusicRecognizer">Audile</a></strong> - 
+    <strong><a href="https://github.com/KRTirtho/spotube">Spotube</a></strong> - 
+    <strong><a href="https://github.com/rumboalla/apkupdater">Apku‌pdater</a></strong> - 
+    <strong><a href="https://github.com/GopeedLab/gopeed">Gopeed</a></strong> - 
+    <strong><a href="https://github.com/LibChecker/LibChecker">Libc‌hecker</a></strong> - 
+    <strong><a href="https://github.com/darkmoonight/ToDark">ToDark</a></strong> - 
+    <strong><a href="https://github.com/Domi04151309/AlwaysOn">Alw‌aysOn</a></strong> - 
+    <strong><a href="https://github.com/WXRIW/Lyricify-App">Lyricify</a></strong> - 
+    <strong><a href="https://github.com/newhinton/Round-Sync">Round Sync</a></strong> - 
+    <strong><a href="https://github.com/thunder-app/thunder">Thunder</a></strong> - 
+    <strong><a href="https://github.com/VegaBobo/DSU-Sideloader">DSU-Sideloader</a></strong> - 
+    <strong><a href="https://github.com/aashishksahu/SafeSpace">Saf‌e Space</a></strong> - 
+    <strong><a href="https://github.com/openai-translator/openai-translator">Openai-translator</a></strong> - 
+    <strong><a href="https://github.com/Lambada10/SongSync">SongSync</a></strong> - 
+    <strong><a href="https://github.com/sweakpl/unlock-master">Unlock-Master</a></strong> - 
+    <strong><a href="https://github.com/crackededed/Xtra">Xtra</a></strong> - 
+    <strong><a href="https://github.com/flauschtrud/broccoli">Broccoli</a></strong> - 
+    <strong><a href="https://github.com/zacharee/InstallWithOptions">InstallWithOptions</a></strong> - 
+    <strong><a href="https://github.com/zjyzip/AdClose">AdClose</a></strong> - 
+    <strong><a href="https://github.com/ubuntu-flutter-community/musicpod">Musicpod</a></strong> - 
+    <strong><a href="https://github.com/ubuntu-flutter-community/settings">Ubuntu Settings</a></strong> - 
+    <strong><a href="https://github.com/Team-xManager/xManager">xManager</a></strong> - 
+    <strong><a href="https://github.com/theimpulson/ReLabs">ReLabs</a></strong> - 
+    <strong><a href="https://github.com/msasikanth/twine">Twine</a></strong> - 
+    <strong><a href="https://github.com/mywalkb/LSPosed_mod">LSPosed Mod</a></strong> - 
+    <strong><a href="https://github.com/toasterofbread/spmp">Spmp</a></strong> - 
+    <strong><a href="https://github.com/Moosync/Moosync">Moosync</a></strong> - 
+    <strong><a href="https://github.com/JGeek00/linkdy">Linkdy</a></strong> - 
+    <strong><a href="https://github.com/Sandakan/Nora">Nora</a></strong> - 
+    <strong><a href="https://github.com/TeamAmaze/AmazeFileUtilities">AmazeFileUtilities</a></strong> - 
+    <strong><a href="https://github.com/Iamlooker/Snappr">Snappr</a></strong> - 
+    <strong><a href="https://github.com/Lennoard/SysctlGUI">SysctlGUI</a></strong> - 
+    <strong><a href="https://github.com/Sav22999/sav-pdf-viewer-pro">Sav-pdf-viewer</a></strong> - 
+    <strong><a href="https://github.com/roozbehzarei/filester">Filester</a></strong> - 
+    <strong><a href="https://github.com/sdex/ActivityManager">Activity Manager</a></strong> - 
+    <strong><a href="https://github.com/SebaUbuntu/Athena">Athena</a></strong> - 
+    <strong><a href="https://github.com/Myzel394/Alibi">Alibi</a></strong> - 
+    <strong><a href="https://github.com/LemmyNet/jerboa">Jerboa</a></strong> - 
+    <strong><a href="https://github.com/KevinCFechtel/FluxNews">FluxNews</a></strong> - 
+    <strong><a href="https://github.com/DP-Hridayan/aShellYou">aShellYou</a></strong> - 
+    <strong><a href="https://github.com/acszo/Redomi">Redomi</a></strong> - 
+    <strong><a href="https://github.com/pewaru-333/HomeMedkit-App">HomeMedkit-App</a></strong> - 
+    <strong><a href="https://github.com/lorenzovngl/FoodExpirationDates">FoodExpirationDates</a></strong> - 
+    <strong><a href="https://github.com/vishal2376/snaptick">Snaptick</a></strong> - 
+    <strong><a href="https://github.com/Dev4Mod/WaEnhancer">WaEnhancer</a></strong> - 
+    <strong><a href="https://github.com/LibrePass/LibrePass-Android">LibrePass-Android</a></strong> - 
+    <strong><a href="https://github.com/zaneschepke/wgtunnel">Wgtunnel</a></strong> - 
+    <strong><a href="https://github.com/pakka-papad/Zen">Zen</a></strong> - 
+    <strong><a href="https://github.com/ismartcoding/plain-app">PlainApp</a></strong> - 
+    <strong><a href="https://github.com/CookieJarApps/SmartCookieWeb-Preview">SmartCookieWeb-Preview</a></strong> - 
+    <strong><a href="https://github.com/TheRedSpy15/blazedcloud">BlazedCloud</a></strong> - 
+    <strong><a href="https://github.com/devhyper/open-video-editor">Open-video-editor</a></strong> - 
+    <strong><a href="https://github.com/albertvaka/bettercounter">BetterCounter</a></strong> - 
+    <strong><a href="https://github.com/Hamza417/Peristyle">Peristyle</a></strong> - 
+    <strong><a href="https://github.com/simonoppowa/OpenNutriTracker">OpenNutriTracker</a></strong> - 
+    <strong><a href="https://github.com/feravolt/FDE.AI-docs">FDE-AI</a></strong> - 
+    <strong><a href="https://github.com/itsvks19/LayoutEditor">LayoutEditor</a></strong> - 
+    <strong><a href="https://github.com/KieronQuinn/PixelLauncherMods">PixelLauncherMods</a></strong> - 
+    <strong><a href="https://github.com/talosross/SummaryYou">SummaryYou</a></strong> - 
+    <strong><a href="https://github.com/Futsch1/medTimer">MedTimer</a></strong> - 
+    <strong><a href="https://github.com/25huizengek1/ViTune">ViTune</a></strong> - 
+    <strong><a href="https://github.com/6eero/NewPass">NewPass</a></strong> - 
+    <strong><a href="https://github.com/justdeko/piley">Piley</a></strong> - 
+    <strong><a href="https://github.com/h4h13/Paisa">Paisa</a></strong> - 
+    <strong><a href="https://github.com/bitwarden/authenticator-android">Bitwarden-Auth</a></strong> - 
+    <strong><a href="https://github.com/YangDai2003/OpenNote-Compose">OpenNote-Compose</a></strong> - 
+    <strong><a href="https://github.com/newhinton/disky">Disky</a></strong> - 
+    <strong><a href="https://github.com/newhinton/Timed-Silence">Timed-Silence</a></strong> - 
+    <strong><a href="https://github.com/LagradOst/QuickNovel">QuickNovel</a></strong> - 
+    <strong><a href="https://github.com/dluvian/voyage">Voyage</a></strong>
 </div>
 
 ---
