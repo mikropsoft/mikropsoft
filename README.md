@@ -3,9 +3,10 @@
 </h1>
 
 <div align="center">
+    
 🌍 I'm passionate about contributing to open-source projects! <br><br>
-
 💬 Feel free to reach out to me on Telegram. I'd love to hear from you!
+
 </div>
 
 <div align="center"> 
@@ -43,7 +44,7 @@
     
 </div>
 
-<div align=center>
+<div align=center>   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=StevenBlock"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=NmapLite"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=SqlmapLite"/>
@@ -59,14 +60,13 @@
     
 **Translation was done using Crowdin and Pull Requests.**
 
-**Some projects were only edited.**
-    
+**Some projects were only edited.**    
+
 </div>
 
 <div align="center">
-    <strong><a href="https://github.com/tiann/KernelSU">Kern‌elSU</a></strong> - 
-    <strong><a href="https://github.com/JGeek00/adguard-home-manager">Adguard Home Manager</a></strong> - 
     <strong><a href="https://github.com/topjohnwu/Magisk">Magisk</a></strong> - 
+    <strong><a href="https://github.com/JGeek00/adguard-home-manager">Adguard Home Manager</a></strong> - 
     <strong><a href="https://github.com/AyuGram">AyuGram</a></strong> - 
     <strong><a href="https://github.com/Mahmud0808/ColorBlendr">ColorB‌lendr</a></strong> - 
     <strong><a href="https://github.com/DHD2280/Oxygen-Customizer">Oxygen-Customizer</a></strong> - 
@@ -86,8 +86,7 @@
     <strong><a href="https://github.com/LibChecker/LibChecker">Libc‌hecker</a></strong> - 
     <strong><a href="https://github.com/darkmoonight/ToDark">ToDark</a></strong> - 
     <strong><a href="https://github.com/Domi04151309/AlwaysOn">Alw‌aysOn</a></strong> - 
-    <strong><a href="https://github.com/WXRIW/Lyricify-App">Lyricify</a></strong> - 
-    <strong><a href="https://github.com/newhinton/Round-Sync">Round Sync</a></strong> - 
+    <strong><a href="https://github.com/WXRIW/Lyricify-App">Lyricify</a></strong> -  
     <strong><a href="https://github.com/thunder-app/thunder">Thunder</a></strong> - 
     <strong><a href="https://github.com/VegaBobo/DSU-Sideloader">DSU-Sideloader</a></strong> - 
     <strong><a href="https://github.com/aashishksahu/SafeSpace">Saf‌e Space</a></strong> - 
