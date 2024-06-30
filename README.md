@@ -147,8 +147,8 @@
     <strong><a href="https://github.com/newhinton/disky">Disky</a></strong> - 
     <strong><a href="https://github.com/newhinton/Timed-Silence">Timed-Silence</a></strong> - 
     <strong><a href="https://github.com/LagradOst/QuickNovel">QuickNovel</a></strong> - 
-    <strong><a href="https://github.com/dluvian/voyage">Voyage</a></strong>
-    <strong><a href="https://github.com/Efimj/Shkiper">Shkiper</a></strong>
+    <strong><a href="https://github.com/dluvian/voyage">Voyage</a></strong> -
+    <strong><a href="https://github.com/Efimj/Shkiper">Shkiper</a></strong> -
     <strong><a href="https://github.com/BinTianqi/OwnDroid">OwnDroid</a></strong>
 </div>
 
