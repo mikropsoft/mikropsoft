@@ -149,6 +149,10 @@
     <strong><a href="https://github.com/dluvian/voyage">Voyage</a></strong> -
     <strong><a href="https://github.com/Efimj/Shkiper">Shkiper</a></strong> -
     <strong><a href="https://github.com/BinTianqi/OwnDroid">OwnDroid</a></strong>
+    <strong><a href="https://github.com/Kin69/EasyNotes">EasyNotes</a></strong>
+    <strong><a href="https://github.com/sosauce/CuteMusic">CuteMusic</a></strong>
+    <strong><a href="https://github.com/LeoColman/Petals">Petals</a></strong>
+    <strong><a href="https://github.com/JHubi1/ollama-app">Ollama-App</a></strong>
 </div>
 
 ---
