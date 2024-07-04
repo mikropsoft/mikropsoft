@@ -155,7 +155,8 @@
     <strong><a href="https://github.com/JHubi1/ollama-app">Ollama-App</a></strong> -
     <strong><a href="https://github.com/brahmkshatriya/echo">Echo</a></strong> -
     <strong><a href="https://github.com/fibelatti/photo-widget">Photo-Widget</a></strong> -
-    <strong><a href="https://github.com/Zimbelstern/Tournant">Tournant</a></strong>
+    <strong><a href="https://github.com/Zimbelstern/Tournant">Tournant</a></strong> -
+    <strong><a href="https://github.com/lllyasviel/Fooocus">Fooocus</a></strong> -
 </div>
 
 ---
