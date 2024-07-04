@@ -148,11 +148,14 @@
     <strong><a href="https://github.com/LagradOst/QuickNovel">QuickNovel</a></strong> - 
     <strong><a href="https://github.com/dluvian/voyage">Voyage</a></strong> -
     <strong><a href="https://github.com/Efimj/Shkiper">Shkiper</a></strong> -
-    <strong><a href="https://github.com/BinTianqi/OwnDroid">OwnDroid</a></strong>
-    <strong><a href="https://github.com/Kin69/EasyNotes">EasyNotes</a></strong>
-    <strong><a href="https://github.com/sosauce/CuteMusic">CuteMusic</a></strong>
-    <strong><a href="https://github.com/LeoColman/Petals">Petals</a></strong>
-    <strong><a href="https://github.com/JHubi1/ollama-app">Ollama-App</a></strong>
+    <strong><a href="https://github.com/BinTianqi/OwnDroid">OwnDroid</a></strong> -
+    <strong><a href="https://github.com/Kin69/EasyNotes">EasyNotes</a></strong> -
+    <strong><a href="https://github.com/sosauce/CuteMusic">CuteMusic</a></strong> -
+    <strong><a href="https://github.com/LeoColman/Petals">Petals</a></strong> -
+    <strong><a href="https://github.com/JHubi1/ollama-app">Ollama-App</a></strong> -
+    <strong><a href="https://github.com/brahmkshatriya/echo">Echo</a></strong> -
+    <strong><a href="https://github.com/fibelatti/photo-widget">Photo-Widget</a></strong> -
+    <strong><a href="https://github.com/Zimbelstern/Tournant">Tournant</a></strong>
 </div>
 
 ---
