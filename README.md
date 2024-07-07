@@ -175,7 +175,9 @@
     <strong><a href="https://github.com/D4rK7355608/com.d4rk.cleaner">D4RK CLEANER</a></strong> -
     <strong><a href="https://github.com/NeoApplications/Neo-Backup">NEO BACKUP</a></strong> -
     <strong><a href="https://github.com/leonlatsch/Photok">PHOTOK</a></strong> -
-    <strong><a href="https://github.com/OctoGramApp/OctoGram">OCTOGRAM</a></strong> 
+    <strong><a href="https://github.com/OctoGramApp/OctoGram">OCTOGRAM</a></strong> -
+    <strong><a href="https://github.com/IacobIonut01/Gallery">GALLERY</a></strong> -
+    <strong><a href="https://github.com/smswithoutborders/SMSWithoutBorders-App-Android">SMSWITHOUTBORDERS</a></strong> 
 </div>
 
 <div align="center">
