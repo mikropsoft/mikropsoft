@@ -147,7 +147,6 @@
     <strong><a href="https://github.com/albertvaka/bettercounter">BETTERCOUNTER</a></strong> - 
     <strong><a href="https://github.com/Hamza417/Peristyle">PERISTYLE</a></strong> - 
     <strong><a href="https://github.com/simonoppowa/OpenNutriTracker">OPENNUTRITRACKER</a></strong> - 
-    <strong><a href="https://github.com/feravolt/FDE.AI-docs">FDE AI</a></strong> - 
     <strong><a href="https://github.com/itsvks19/LayoutEditor">LAYOUTEDITOR</a></strong> - 
     <strong><a href="https://github.com/KieronQuinn/PixelLauncherMods">PIXELLAUNCHERMODS</a></strong> - 
     <strong><a href="https://github.com/talosross/SummaryYou">SUMMARYYOU</a></strong> - 
