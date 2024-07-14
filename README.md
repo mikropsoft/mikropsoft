@@ -10,7 +10,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://t.me/microzort">
+  <a href="https://t.me/mikropsoft">
     <img src="https://img.shields.io/badge/Let's_Connect!-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
 </div>
