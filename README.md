@@ -177,7 +177,8 @@
     <strong><a href="https://github.com/OctoGramApp/OctoGram">OCTOGRAM</a></strong> -
     <strong><a href="https://github.com/IacobIonut01/Gallery">GALLERY</a></strong> -
     <strong><a href="https://github.com/smswithoutborders/SMSWithoutBorders-App-Android">SMSWITHOUTBORDERS</a></strong> -
-    <strong><a href="https://github.com/Angel-Studio/SoundTap">SOUNDTAP</a></strong>
+    <strong><a href="https://github.com/Angel-Studio/SoundTap">SOUNDTAP</a></strong> -
+    <strong><a href="https://github.com/DroidWorksStudio/mLauncher">MLAUNCHER</a></strong> 
 </div>
 
 <div align="center">
