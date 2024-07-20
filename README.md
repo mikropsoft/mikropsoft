@@ -170,7 +170,6 @@
     <strong><a href="https://github.com/brahmkshatriya/echo">ECHO</a></strong> -
     <strong><a href="https://github.com/fibelatti/photo-widget">PHOTO WIDGET</a></strong> -
     <strong><a href="https://github.com/Zimbelstern/Tournant">TOURNANT</a></strong> -
-    <strong><a href="https://github.com/lllyasviel/Fooocus">FOOOCUS</a></strong> -
     <strong><a href="https://github.com/D4rK7355608/com.d4rk.cleaner">D4RK CLEANER</a></strong> -
     <strong><a href="https://github.com/NeoApplications/Neo-Backup">NEO BACKUP</a></strong> -
     <strong><a href="https://github.com/leonlatsch/Photok">PHOTOK</a></strong> -
