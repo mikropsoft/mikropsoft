@@ -178,7 +178,8 @@
     <strong><a href="https://github.com/Angel-Studio/SoundTap">SOUNDTAP</a></strong> -
     <strong><a href="https://github.com/DroidWorksStudio/mLauncher">MLAUNCHER</a></strong> -
     <strong><a href="https://github.com/DroidWorksStudio/EasyLauncher">EASYLAUNCHER</a></strong> -
-    <strong><a href="https://github.com/Anxcye/anx-reader">ANX READER</a></strong> 
+    <strong><a href="https://github.com/Anxcye/anx-reader">ANX READER</a></strong> -
+    <strong><a href="https://github.com/tranht17/WinTune">WINTUNE</a></strong>
 </div>
 
 <div align="center">
