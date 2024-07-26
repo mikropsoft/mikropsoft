@@ -183,7 +183,9 @@
     <strong><a href="https://github.com/tranht17/WinTune">WINTUNE</a></strong> -
     <strong><a href="https://github.com/techlore/Plexus-app">PLEXUS APP</a></strong> -
     <strong><a href="https://github.com/allentown521/FocusPodcast">FOCUSPODCAST</a></strong> -
-    <strong><a href="https://github.com/mu-fazil-vk/FluxTube">FLUXTUBE/a></strong>
+    <strong><a href="https://github.com/mu-fazil-vk/FluxTube">FLUXTUBE</a></strong> - 
+    <strong><a href="https://github.com/Arturo254/InnerTune">INNERTUNE</a></strong> -
+    <strong><a href="https://github.com/Malopieds/InnerTune">INNERTUNE 1</a></strong>
 </div>
 
 <div align="center">
