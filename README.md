@@ -188,7 +188,8 @@
     <strong><a href="https://github.com/nfdz/Cryptool">CRYPTOOL</a></strong> -
     <strong><a href="https://github.com/lollipopkit/flutter_server_box">FLUTTER SERVER BOX</a></strong> -
     <strong><a href="https://github.com/Pool-Of-Tears/Myne">MYNE</a></strong> -
-    <strong><a href="https://github.com/AdamGuidarini/MediTrak">MEDITRAK</a></strong> 
+    <strong><a href="https://github.com/AdamGuidarini/MediTrak">MEDITRAK</a></strong> -
+    <strong><a href="https://github.com/anilbeesetti/nextplayer">NEXTPLAYER</a></strong> -
 </div>
 
 <div align="center">
