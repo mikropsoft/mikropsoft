@@ -190,6 +190,10 @@
     <strong><a href="https://github.com/Pool-Of-Tears/Myne">MYNE</a></strong> -
     <strong><a href="https://github.com/AdamGuidarini/MediTrak">MEDITRAK</a></strong> -
     <strong><a href="https://github.com/anilbeesetti/nextplayer">NEXTPLAYER</a></strong> -
+    <strong><a href="https://github.com/SankethBK/diaryvault">DIARYVAULT</a></strong> -
+    <strong><a href="https://github.com/aimok04/kitshn">KITSHN</a></strong> -
+    <strong><a href="https://github.com/shub39/Rush">RUSH</a></strong> -
+    <strong><a href="https://github.com/patzly/tack-android">TACK</a></strong>
 </div>
 
 <div align="center">
