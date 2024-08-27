@@ -193,7 +193,9 @@
     <strong><a href="https://github.com/SankethBK/diaryvault">DIARYVAULT</a></strong> -
     <strong><a href="https://github.com/aimok04/kitshn">KITSHN</a></strong> -
     <strong><a href="https://github.com/shub39/Rush">RUSH</a></strong> -
-    <strong><a href="https://github.com/patzly/tack-android">TACK</a></strong>
+    <strong><a href="https://github.com/patzly/tack-android">TACK</a></strong> -
+    <strong><a href="https://github.com/Tornaco/Thanox">THANOX</a></strong> -
+    <strong><a href="https://github.com/Acclorite/book-story">BOOK STORY</a></strong>
 </div>
 
 <div align="center">
