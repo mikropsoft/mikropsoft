@@ -195,7 +195,10 @@
     <strong><a href="https://github.com/shub39/Rush">RUSH</a></strong> -
     <strong><a href="https://github.com/patzly/tack-android">TACK</a></strong> -
     <strong><a href="https://github.com/Tornaco/Thanox">THANOX</a></strong> -
-    <strong><a href="https://github.com/Acclorite/book-story">BOOK STORY</a></strong>
+    <strong><a href="https://github.com/Acclorite/book-story">BOOK STORY</a></strong> -
+    <strong><a href="https://github.com/SkyD666/AniVu">ANIVU</a></strong> -
+    <strong><a href="https://github.com/Taewan-P/gpt_mobile">GPT MOBILE</a></strong> -
+    <strong><a href="https://github.com/beradeep/whitehole">WHITEHOLE</a></strong>
 </div>
 
 <div align="center">
