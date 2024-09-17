@@ -199,8 +199,10 @@
     <strong><a href="https://github.com/SkyD666/AniVu">ANIVU</a></strong> -
     <strong><a href="https://github.com/Taewan-P/gpt_mobile">GPT MOBILE</a></strong> -
     <strong><a href="https://github.com/beradeep/whitehole">WHITEHOLE</a></strong> -
-    <strong><a href="https://github.com/anonfaded/FadCam">FADCAM</a></strong> 
-    <strong><a href="https://github.com/runtipi/runtipi">RUNTIPI</a></strong> 
+    <strong><a href="https://github.com/anonfaded/FadCam">FADCAM</a></strong> -
+    <strong><a href="https://github.com/runtipi/runtipi">RUNTIPI</a></strong> -
+    <strong><a href="https://github.com/KSSidll/Arru">ARRU</a></strong> -
+    <strong><a href="https://github.com/DanielRendox/GroceryGenius">GROCERYGENIUS</a></strong> 
 </div>
 
 <div align="center">
