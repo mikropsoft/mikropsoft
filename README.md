@@ -204,7 +204,8 @@
     <strong><a href="https://github.com/KSSidll/Arru">ARRU</a></strong> -
     <strong><a href="https://github.com/DanielRendox/GroceryGenius">GROCERYGENIUS</a></strong> -
     <strong><a href="https://github.com/xp4u1/memoria">MEMORIA</a></strong> - 
-    <strong><a href="https://github.com/amir1376/ab-download-manager">AB DOWNLOAD MANAGER</a></strong>
+    <strong><a href="https://github.com/amir1376/ab-download-manager">AB DOWNLOAD MANAGER</a></strong> -
+    <strong><a href="https://github.com/hydralauncher/hydra">HYDRA</a></strong>
 </div>
 
 <div align="center">
