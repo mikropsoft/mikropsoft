@@ -207,7 +207,8 @@
     <strong><a href="https://github.com/amir1376/ab-download-manager">AB DOWNLOAD MANAGER</a></strong> -
     <strong><a href="https://github.com/hydralauncher/hydra">HYDRA</a></strong> -
     <strong><a href="https://github.com/MissingCore/Music">MUSIC</a></strong> -
-    <strong><a href="https://github.com/namidaco/namida">NAMIDA</a></strong>
+    <strong><a href="https://github.com/namidaco/namida">NAMIDA</a></strong> -
+    <strong><a href="https://github.com/stonith404/pingvin-share">PINGVIN SHARE</a></strong>
 </div>
 
 <div align="center">
