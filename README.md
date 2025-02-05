@@ -208,7 +208,8 @@
     <strong><a href="https://github.com/hydralauncher/hydra">HYDRA</a></strong> -
     <strong><a href="https://github.com/MissingCore/Music">MUSIC</a></strong> -
     <strong><a href="https://github.com/namidaco/namida">NAMIDA</a></strong> -
-    <strong><a href="https://github.com/stonith404/pingvin-share">PINGVIN SHARE</a></strong>
+    <strong><a href="https://github.com/stonith404/pingvin-share">PINGVIN SHARE</a></strong> -
+    <strong><a href="https://github.com/t895/DNSNet">DNSNET</a></strong>
 </div>
 
 <div align="center">
