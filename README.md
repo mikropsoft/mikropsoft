@@ -102,7 +102,6 @@
     <strong><a href="https://github.com/Domi04151309/AlwaysOn">ALW‌AYSON</a></strong> - 
     <strong><a href="https://github.com/WXRIW/Lyricify-App">LYRICIFY</a></strong> -  
     <strong><a href="https://github.com/thunder-app/thunder">THUNDER</a></strong> - 
-    <strong><a href="https://github.com/VegaBobo/DSU-Sideloader">DSU SIDELOADER</a></strong> - 
     <strong><a href="https://github.com/aashishksahu/SafeSpace">SAF‌E SPACE</a></strong> - 
     <strong><a href="https://github.com/openai-translator/openai-translator">OPENAI TRANSLATOR</a></strong> - 
     <strong><a href="https://github.com/Lambada10/SongSync">SONGSYNC</a></strong> - 
