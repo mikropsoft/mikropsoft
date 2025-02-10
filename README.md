@@ -210,7 +210,8 @@
     <strong><a href="https://github.com/stonith404/pingvin-share">PINGVIN SHARE</a></strong> -
     <strong><a href="https://github.com/t895/DNSNet">DNSNET</a></strong> -
     <strong><a href="https://github.com/usememos/memos">MEMOS</a></strong> -
-    <strong><a href="https://github.com/WSTxda/MicroG-RE">MICROG-RE</a></strong>
+    <strong><a href="https://github.com/WSTxda/MicroG-RE">MICROG-RE</a></strong> -
+    <strong><a href="https://github.com/azukaar/Cosmos-Server">COSMOS</a></strong>
 </div>
 
 <div align="center">
