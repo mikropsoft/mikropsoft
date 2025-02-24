@@ -155,8 +155,6 @@
     <strong><a href="https://github.com/h4h13/Paisa">PAISA</a></strong> - 
     <strong><a href="https://github.com/bitwarden/authenticator-android">BITWARDEN AUTH</a></strong> - 
     <strong><a href="https://github.com/YangDai2003/OpenNote-Compose">OPENNOTE COMPOSE</a></strong> - 
-    <strong><a href="https://github.com/newhinton/disky">DISKY</a></strong> - 
-    <strong><a href="https://github.com/newhinton/Timed-Silence">TIMED SILENCE</a></strong> - 
     <strong><a href="https://github.com/LagradOst/QuickNovel">QUICKNOVEL</a></strong> - 
     <strong><a href="https://github.com/dluvian/voyage">VOYAGE</a></strong> -
     <strong><a href="https://github.com/Efimj/Shkiper">SHKIPER</a></strong> -
