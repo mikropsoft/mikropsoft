@@ -207,7 +207,9 @@
     <strong><a href="https://github.com/t895/DNSNet">DNSNET</a></strong> -
     <strong><a href="https://github.com/usememos/memos">MEMOS</a></strong> -
     <strong><a href="https://github.com/WSTxda/MicroG-RE">MICROG-RE</a></strong> -
-    <strong><a href="https://github.com/Gedsh/InviZible">InviZible</a></strong>
+    <strong><a href="https://github.com/Gedsh/InviZible">IVIZIBLE</a></strong> -
+    <strong><a href="https://github.com/maksimowiczm/FoodYou">FOODYOU</a></strong> -
+    <strong><a href="https://github.com/maksimowiczm/find-my-ip">FINDMYIP</a></strong>
 </div>
 
 <div align="center">
