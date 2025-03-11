@@ -209,7 +209,9 @@
     <strong><a href="https://github.com/WSTxda/MicroG-RE">MICROG-RE</a></strong> -
     <strong><a href="https://github.com/Gedsh/InviZible">IVIZIBLE</a></strong> -
     <strong><a href="https://github.com/maksimowiczm/FoodYou">FOODYOU</a></strong> -
-    <strong><a href="https://github.com/maksimowiczm/find-my-ip">FINDMYIP</a></strong>
+    <strong><a href="https://github.com/maksimowiczm/find-my-ip">FINDMYIP</a></strong> -
+    <strong><a href="https://github.com/Mobile-Artificial-Intelligence/maid">MAID</a></strong> -
+    <strong><a href="https://github.com/T8RIN/ImageToolbox">IMAGETOOLBOX</a></strong>
 </div>
 
 <div align="center">
