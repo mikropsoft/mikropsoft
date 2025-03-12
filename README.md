@@ -211,7 +211,8 @@
     <strong><a href="https://github.com/maksimowiczm/FoodYou">FOODYOU</a></strong> -
     <strong><a href="https://github.com/maksimowiczm/find-my-ip">FINDMYIP</a></strong> -
     <strong><a href="https://github.com/Mobile-Artificial-Intelligence/maid">MAID</a></strong> -
-    <strong><a href="https://github.com/T8RIN/ImageToolbox">IMAGETOOLBOX</a></strong>
+    <strong><a href="https://github.com/T8RIN/ImageToolbox">IMAGETOOLBOX</a></strong> -
+    <strong><a href="https://github.com/blinko-space/blinko">BLINKO</a></strong>
 </div>
 
 <div align="center">
