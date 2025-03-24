@@ -214,7 +214,8 @@
     <strong><a href="https://github.com/T8RIN/ImageToolbox">IMAGETOOLBOX</a></strong> -
     <strong><a href="https://github.com/blinko-space/blinko">BLINKO</a></strong> -
     <strong><a href="https://github.com/go-vikunja/vikunja">VIKUNJA</a></strong> -
-    <strong><a href="https://github.com/Scriptbash/Wispar">WISPAR</a></strong>
+    <strong><a href="https://github.com/Scriptbash/Wispar">WISPAR</a></strong> -
+    <strong><a href="https://github.com/supershadoe/delta">DELTA</a></strong>
 </div>
 
 <div align="center">
