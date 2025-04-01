@@ -216,7 +216,8 @@
     <a href="https://github.com/blinko-space/blinko">BLINKO</a> • 
     <a href="https://github.com/go-vikunja/vikunja">VIKUNJA</a> • 
     <a href="https://github.com/Scriptbash/Wispar">WISPAR</a> • 
-    <a href="https://github.com/supershadoe/delta">DELTA</a><br><br>
+    <a href="https://github.com/supershadoe/delta">DELTA</a> • 
+    <a href="https://github.com/FreshRSS/FreshRSS">FRESHRSS</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
