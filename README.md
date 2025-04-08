@@ -218,7 +218,11 @@
     <a href="https://github.com/FreshRSS/FreshRSS">FRESHRSS</a> •
     <a href="https://github.com/keymapperorg/KeyMapper">KEYMAPPER</a> •
     <a href="https://github.com/Sanmeet007/logger">LOGGER</a> •
-    <a href="https://github.com/knighthat/Kreate">KREATE</a><br><br>
+    <a href="https://github.com/knighthat/Kreate">KREATE</a> •
+    <a href="https://github.com/itsvic-dev/parcel">PARCEL</a> •
+    <a href="https://github.com/GrakovNe/lissen-android">LISSEN</a> •
+    <a href="https://github.com/quillpad/quillpad">QUILLPAD</a> •
+    <a href="https://github.com/Faltenreich/Diaguard">DIAGUARD</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
