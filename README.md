@@ -119,7 +119,6 @@
     <a href="https://github.com/JGeek00/linkdy">LINKDY</a> • 
     <a href="https://github.com/Sandakan/Nora">NORA</a> • 
     <a href="https://github.com/TeamAmaze/AmazeFileUtilities">AMAZEFILEUTILITIES</a> • 
-    <a href="https://github.com/Iamlooker/Snappr">SNAPPR</a> • 
     <a href="https://github.com/Lennoard/SysctlGUI">SYSCTLGUI</a> • 
     <a href="https://github.com/Sav22999/sav-pdf-viewer-pro">SAV PDF VIEWER</a> • 
     <a href="https://github.com/roozbehzarei/filester">FILESTER</a> • 
