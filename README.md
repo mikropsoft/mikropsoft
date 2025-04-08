@@ -132,7 +132,6 @@
     <a href="https://github.com/acszo/Redomi">REDOMI</a> • 
     <a href="https://github.com/pewaru-333/HomeMedkit-App">HOMEMEDKIT APP</a> • 
     <a href="https://github.com/lorenzovngl/FoodExpirationDates">FOODEXPIRATIONDATES</a> • 
-    <a href="https://github.com/vishal2376/snaptick">SNAPTICK</a> • 
     <a href="https://github.com/Dev4Mod/WaEnhancer">WAENHANCER</a> • 
     <a href="https://github.com/LibrePass/LibrePass-Android">LIBREPASS ANDROID</a> • 
     <a href="https://github.com/zaneschepke/wgtunnel">WGTUNNEL</a> • 
@@ -208,7 +207,7 @@
     <a href="https://github.com/t895/DNSNet">DNSNET</a> • 
     <a href="https://github.com/usememos/memos">MEMOS</a> • 
     <a href="https://github.com/WSTxda/MicroG-RE">MICROG-RE</a> • 
-    <a href="https://github.com/Gedsh/InviZible">IVIZIBLE</a> • 
+    <a href="https://github.com/Gedsh/InviZible">INVIZIBLE</a> • 
     <a href="https://github.com/maksimowiczm/FoodYou">FOODYOU</a> • 
     <a href="https://github.com/maksimowiczm/find-my-ip">FINDMYIP</a> • 
     <a href="https://github.com/Mobile-Artificial-Intelligence/maid">MAID</a> • 
@@ -219,7 +218,8 @@
     <a href="https://github.com/supershadoe/delta">DELTA</a> • 
     <a href="https://github.com/FreshRSS/FreshRSS">FRESHRSS</a> •
     <a href="https://github.com/keymapperorg/KeyMapper">KEYMAPPER</a> •
-    <a href="https://github.com/Sanmeet007/logger">LOGGER</a><br><br>
+    <a href="https://github.com/Sanmeet007/logger">LOGGER</a> •
+    <a href="https://github.com/knighthat/Kreate">KREATE</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
