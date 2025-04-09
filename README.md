@@ -222,9 +222,10 @@
     <a href="https://github.com/itsvic-dev/parcel">PARCEL</a> •
     <a href="https://github.com/GrakovNe/lissen-android">LISSEN</a> •
     <a href="https://github.com/quillpad/quillpad">QUILLPAD</a> •
-    <a href="https://github.com/Faltenreich/Diaguard">DIAGUARD</a>
-    <a href="https://github.com/XilinJia/Podcini.X">PODCINI</a>
-    <a href="https://github.com/catpuppyapp/PuppyGit">PUPPYGIT</a><br><br>
+    <a href="https://github.com/Faltenreich/Diaguard">DIAGUARD</a> •
+    <a href="https://github.com/XilinJia/Podcini.X">PODCINI</a> •
+    <a href="https://github.com/catpuppyapp/PuppyGit">PUPPYGIT</a> •
+    <a href="https://github.com/jwr1/interstellar">INTESTELLAR</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
