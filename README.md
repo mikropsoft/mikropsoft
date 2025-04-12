@@ -225,7 +225,8 @@
     <a href="https://github.com/Faltenreich/Diaguard">DIAGUARD</a> •
     <a href="https://github.com/XilinJia/Podcini.X">PODCINI</a> •
     <a href="https://github.com/catpuppyapp/PuppyGit">PUPPYGIT</a> •
-    <a href="https://github.com/jwr1/interstellar">INTESTELLAR</a><br><br>
+    <a href="https://github.com/jwr1/interstellar">INTERSTELLAR</a> •
+    <a href="https://github.com/crackededed/Xtra">XTRA</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
