@@ -56,7 +56,7 @@
 
 <div align=center>   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=StevenBlock"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=NmapLite-SqlmapLite"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikropsoft&repo=Security-Scan-Automator"/>
 </div>
 
 <div align="center">
