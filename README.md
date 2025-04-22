@@ -149,7 +149,7 @@
     <a href="https://github.com/25huizengek1/ViTune">VITUNE</a> • 
     <a href="https://github.com/6eero/NewPass">NEWPASS</a> • 
     <a href="https://github.com/justdeko/piley">PILEY</a> • 
-    <a href="https://github.com/h4h13/Paisa">PAISA</a> • 
+    <a href="https://github.com/h4h13/paisa-app">PAISA</a> • 
     <a href="https://github.com/bitwarden/authenticator-android">BITWARDEN AUTH</a> • 
     <a href="https://github.com/YangDai2003/OpenNote-Compose">OPENNOTE COMPOSE</a> • 
     <a href="https://github.com/LagradOst/QuickNovel">QUICKNOVEL</a> • 
