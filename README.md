@@ -170,9 +170,7 @@
     <a href="https://github.com/OctoGramApp/OctoGram">OCTOGRAM</a> • 
     <a href="https://github.com/IacobIonut01/Gallery">GALLERY</a> • 
     <a href="https://github.com/smswithoutborders/SMSWithoutBorders-App-Android">SMSWITHOUTBORDERS</a> • 
-    <a href="https://github.com/Angel-Studio/SoundTap">SOUNDTAP</a> • 
-    <a href="https://github.com/DroidWorksStudio/mLauncher">MLAUNCHER</a> • 
-    <a href="https://github.com/DroidWorksStudio/EasyLauncher">EASYLAUNCHER</a> • 
+    <a href="https://github.com/Angel-Studio/SoundTap">SOUNDTAP</a> •  
     <a href="https://github.com/Anxcye/anx-reader">ANX READER</a> • 
     <a href="https://github.com/tranht17/WinTune">WINTUNE</a> • 
     <a href="https://github.com/techlore/Plexus-app">PLEXUS APP</a> • 
@@ -226,7 +224,7 @@
     <a href="https://github.com/XilinJia/Podcini.X">PODCINI</a> •
     <a href="https://github.com/catpuppyapp/PuppyGit">PUPPYGIT</a> •
     <a href="https://github.com/jwr1/interstellar">INTERSTELLAR</a> •
-    <a href="https://github.com/crackededed/Xtra">XTRA</a>
+    <a href="https://github.com/crackededed/Xtra">XTRA</a> •
     <a href="https://github.com/risin42/NagramX">NAGRAMX</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
