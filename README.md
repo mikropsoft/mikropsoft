@@ -136,7 +136,6 @@
     <a href="https://github.com/pakka-papad/Zen">ZEN</a> • 
     <a href="https://github.com/ismartcoding/plain-app">PLAINAPP</a> • 
     <a href="https://github.com/CookieJarApps/SmartCookieWeb-Preview">SMARTCOOKIEWEB PREVIEW</a> • 
-    <a href="https://github.com/TheRedSpy15/blazedcloud">BLAZEDCLOUD</a> • 
     <a href="https://github.com/devhyper/open-video-editor">OPEN VIDEO EDITOR</a> • 
     <a href="https://github.com/albertvaka/bettercounter">BETTERCOUNTER</a> • 
     <a href="https://github.com/Hamza417/Peristyle">PERISTYLE</a> • 
