@@ -140,7 +140,6 @@
     <a href="https://github.com/albertvaka/bettercounter">BETTERCOUNTER</a> • 
     <a href="https://github.com/Hamza417/Peristyle">PERISTYLE</a> • 
     <a href="https://github.com/simonoppowa/OpenNutriTracker">OPENNUTRITRACKER</a> • 
-    <a href="https://github.com/itsvks19/LayoutEditor">LAYOUTEDITOR</a> • 
     <a href="https://github.com/KieronQuinn/PixelLauncherMods">PIXELLAUNCHERMODS</a> • 
     <a href="https://github.com/talosross/SummaryYou">SUMMARYYOU</a> • 
     <a href="https://github.com/Futsch1/medTimer">MEDTIMER</a> • 
