@@ -98,6 +98,7 @@
     <a href="https://github.com/GopeedLab/gopeed">GOPEED</a> • 
     <a href="https://github.com/LibChecker/LibChecker">LIBCHECKER</a> • 
     <a href="https://github.com/darkmoonight/ToDark">TODARK</a> • 
+    <a href="https://github.com/fibelatti/photo-widget">PHOTO WIDGET</a> •
     <a href="https://github.com/Domi04151309/AlwaysOn">ALWAYSON</a> • 
     <a href="https://github.com/WXRIW/Lyricify-App">LYRICIFY</a> • 
     <a href="https://github.com/thunder-app/thunder">THUNDER</a> • 
