@@ -158,7 +158,6 @@
     <a href="https://github.com/LeoColman/Petals">PETALS</a> • 
     <a href="https://github.com/JHubi1/ollama-app">OLLAMA APP</a> • 
     <a href="https://github.com/brahmkshatriya/echo">ECHO</a> • 
-    <a href="https://github.com/fibelatti/photo-widget">PHOTO WIDGET</a> • 
     <a href="https://github.com/Zimbelstern/Tournant">TOURNANT</a> • 
     <a href="https://github.com/D4rK7355608/com.d4rk.cleaner">D4RK CLEANER</a> • 
     <a href="https://github.com/NeoApplications/Neo-Backup">NEO BACKUP</a> • 
