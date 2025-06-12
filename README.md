@@ -221,8 +221,9 @@
     <a href="https://github.com/catpuppyapp/PuppyGit">PUPPYGIT</a> •
     <a href="https://github.com/jwr1/interstellar">INTERSTELLAR</a> •
     <a href="https://github.com/crackededed/Xtra">XTRA</a> •
-    <a href="https://github.com/risin42/NagramX">NAGRAMX</a><br><br> •
-    <a href="https://github.com/BrisklyDev/brisk">BRISK</a><br><br>
+    <a href="https://github.com/risin42/NagramX">NAGRAMX</a> •
+    <a href="https://github.com/BrisklyDev/brisk">BRISK</a>
+    <a href="https://github.com/exteraSquad/exteraGram">EXTERAGRAM</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
