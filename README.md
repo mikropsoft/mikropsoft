@@ -222,8 +222,14 @@
     <a href="https://github.com/jwr1/interstellar">INTERSTELLAR</a> •
     <a href="https://github.com/crackededed/Xtra">XTRA</a> •
     <a href="https://github.com/risin42/NagramX">NAGRAMX</a> •
-    <a href="https://github.com/BrisklyDev/brisk">BRISK</a>
-    <a href="https://github.com/exteraSquad/exteraGram">EXTERAGRAM</a><br><br>
+    <a href="https://github.com/BrisklyDev/brisk">BRISK</a> •
+    <a href="https://github.com/exteraSquad/exteraGram">EXTERAGRAM</a> •
+    <a href="https://github.com/MM2-0/Kvaesitso">KVAESITSO</a> •
+    <a href="https://github.com/rikkahub/rikkahub">RIKKAHUB</a> •
+    <a href="https://github.com/agrahn/Android-Password-Store">ANDROID PASSWORD STORE</a> •
+    <a href="https://github.com/nethical6/digipaws">DIGIPAWS</a> •
+    <a href="https://github.com/RBN-Apps/Quick-Tile-Settings">QUICK TILE SETTINGS</a> •
+    <a href="https://github.com/flxholle/QuickTiles">QUICKTILES</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
