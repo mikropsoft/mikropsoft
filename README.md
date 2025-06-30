@@ -228,7 +228,8 @@
     <a href="https://github.com/agrahn/Android-Password-Store">ANDROID PASSWORD STORE</a> •
     <a href="https://github.com/nethical6/digipaws">DIGIPAWS</a> •
     <a href="https://github.com/RBN-Apps/Quick-Tile-Settings">QUICK TILE SETTINGS</a> •
-    <a href="https://github.com/flxholle/QuickTiles">QUICKTILES</a><br><br>
+    <a href="https://github.com/flxholle/QuickTiles">QUICKTILES</a> •
+    <a href="https://github.com/SukiSU-Ultra/SukiSU-Ultra">SUKISU ULTRA</a><br><br>
     <i>Every contribution shapes a brighter open-source future!</i>
 </div>
 
