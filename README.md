@@ -225,7 +225,6 @@
     <a href="https://github.com/BrisklyDev/brisk">BRISK</a> •
     <a href="https://github.com/exteraSquad/exteraGram">EXTERAGRAM</a> •
     <a href="https://github.com/MM2-0/Kvaesitso">KVAESITSO</a> •
-    <a href="https://github.com/rikkahub/rikkahub">RIKKAHUB</a> •
     <a href="https://github.com/agrahn/Android-Password-Store">ANDROID PASSWORD STORE</a> •
     <a href="https://github.com/nethical6/digipaws">DIGIPAWS</a> •
     <a href="https://github.com/RBN-Apps/Quick-Tile-Settings">QUICK TILE SETTINGS</a> •
