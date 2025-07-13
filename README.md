@@ -13,6 +13,9 @@
   <a href="https://t.me/microzort">
     <img src="https://img.shields.io/badge/Let's_Connect!-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
+  <a href="https://buymeacoffee.com/mikropsoft">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </div>
 
 ---
